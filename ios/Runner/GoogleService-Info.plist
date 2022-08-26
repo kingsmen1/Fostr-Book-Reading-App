@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>559126256610-7fts9emsvs6fdcu1nmb9gk2dho49mirs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.559126256610-7fts9emsvs6fdcu1nmb9gk2dho49mirs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>559126256610-2k1i4m5das31fe9trhm353hrqggs3kap.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmJa_zLk4Sw0uPzGBQmBcWWvlleFx469w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>559126256610</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.clubfostr.fostrfinal</string>
+	<key>PROJECT_ID</key>
+	<string>fostr2021</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fostr2021.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:559126256610:ios:0a1e5c8209e416412337bb</string>
+	<key>DATABASE_URL</key>
+	<string>https://fostr2021-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

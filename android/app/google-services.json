@@ -1,0 +1,131 @@
+{
+  "project_info": {
+    "project_number": "559126256610",
+    "firebase_url": "https://fostr2021-default-rtdb.firebaseio.com",
+    "project_id": "fostr2021",
+    "storage_bucket": "fostr2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559126256610:android:5d8308591b58b7562337bb",
+        "android_client_info": {
+          "package_name": "com.clubfostr.fostr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559126256610-30uk3b4pub49p5us8jgccpmtkbaui743.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clubfostr.fostr",
+            "certificate_hash": "78d303b6d3a4472a8a9f43afa386ec4a2cdd2020"
+          }
+        },
+        {
+          "client_id": "559126256610-4i08no3pbbkgoo5cjmgi1gjkvq02nhah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clubfostr.fostr",
+            "certificate_hash": "a7bd74626202c60f44bbef8e18580284ccc9215a"
+          }
+        },
+        {
+          "client_id": "559126256610-avefsg72nc3o53t9t3gfitl9n7masbtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clubfostr.fostr",
+            "certificate_hash": "f5b4dd4291b7d2ebbd0bd0e00d8254d3c07fe597"
+          }
+        },
+        {
+          "client_id": "559126256610-ci39kc988j7nhekukbstarb4po6t5e9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clubfostr.fostr",
+            "certificate_hash": "f8647622393387c1b7b652438b28a16b02ab634f"
+          }
+        },
+        {
+          "client_id": "559126256610-ll6tn7pplv2nbpo1loivlde6psvslmn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clubfostr.fostr",
+            "certificate_hash": "85c62a72e39c0fe667df59f9ea91c85b7b5791ed"
+          }
+        },
+        {
+          "client_id": "559126256610-hr8vmbg8kdo0tfjp623n50upvr911cf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc3zMNmJr7mCa6rIw2L24OQMhDNn4Q-LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559126256610-hr8vmbg8kdo0tfjp623n50upvr911cf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559126256610-5r5he19eq17922iatkrgbtsrnb7v1570.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clubfostr.fostr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559126256610:android:b87e8330b1c6d4882337bb",
+        "android_client_info": {
+          "package_name": "com.clubfostr.fostr_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559126256610-agrtdkrk3p42qnevhhs7mn5jj8r45mp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clubfostr.fostr_ui",
+            "certificate_hash": "78d303b6d3a4472a8a9f43afa386ec4a2cdd2020"
+          }
+        },
+        {
+          "client_id": "559126256610-hr8vmbg8kdo0tfjp623n50upvr911cf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc3zMNmJr7mCa6rIw2L24OQMhDNn4Q-LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559126256610-hr8vmbg8kdo0tfjp623n50upvr911cf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559126256610-5r5he19eq17922iatkrgbtsrnb7v1570.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clubfostr.fostr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
